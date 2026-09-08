@@ -4,7 +4,7 @@ DySec is a research-oriented tool. This document explains how submissions are ha
 
 ---
 
-### ⚠️ Analysis Scope & Limitations
+### Analysis Scope & Limitations
 
 DySec analyzes **only packages with existing install-time and post-installation traces** available in the dataset.
 
@@ -15,7 +15,7 @@ Real-time analysis of newly submitted packages is **not supported** in this vers
 
 ---
 
-### 🛡️ Privacy Principles
+### Privacy Principles
 
 DySec is designed for academic research and security analysis. We aim to minimize data collection and avoid unnecessary storage of uploaded artifacts.
 
@@ -27,7 +27,7 @@ Submissions are processed strictly for analysis purposes.
 
 ---
 
-### 🔒 Data Handling & Usage
+### Data Handling & Usage
 
 DySec primarily relies on **pre-collected dynamic traces** (e.g., install-time and post-installation behaviors).
 
@@ -39,7 +39,7 @@ The platform supports research evaluation and demonstration. It is **not intende
 
 ---
 
-### 🧠 Machine Learning Model Accuracy
+### Machine Learning Model Accuracy
 
 Accuracy values displayed in DySec reflect **controlled experimental evaluations**.
 
@@ -47,7 +47,7 @@ They **do not guarantee** real-world detection performance.
 
 ---
 
-### ⚠️ Important Notice
+### Important Notice
 
 Machine learning predictions are **probabilistic**.
 
@@ -59,7 +59,7 @@ False positives and false negatives may occur due to:
 
 ---
 
-### ✅ Responsible Interpretation
+### Responsible Interpretation
 
 DySec outputs should be treated as **supporting analytical evidence**, not a final security verdict.
 
